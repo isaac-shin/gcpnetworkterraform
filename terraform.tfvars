@@ -1,7 +1,7 @@
 # Application Definition 
 app_name        = "coalfire" #do NOT enter any spaces
 app_environment = "test" # Dev, Test, Prod, etc
-app_domain      = "kopicloud.com"
+app_domain      = "coalfiretest.com"
 app_project     = "coalfiretest"
 app_node_count  = 2
 
