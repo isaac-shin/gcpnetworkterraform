@@ -28,7 +28,7 @@ vm-output.tf --> Output of VMs
 
 vm.tf --> Template to create a Ubuntu VM with Apache web server
 
-# Notes/Steps
+# References
 
 1. Set up your gcloud and json key to connect to your new project - https://cloud.google.com/iam/docs/creating-managing-service-account-keys
 
@@ -43,3 +43,9 @@ vm.tf --> Template to create a Ubuntu VM with Apache web server
 6. Check list of Google Cloud OS images to use --> https://cloud.google.com/compute/docs/images
 
 7. Read and referenced the following github --> https://github.com/guillermo-musumeci/terraform-gcp-single-region-private-lb-autoscale
+
+# Steps
+
+1. Terraform init
+2. Terraform plan
+3. Terraform apply
